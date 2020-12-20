@@ -1,5 +1,14 @@
 # tenori-on
 
+
+Deployed here: https://tenori-on.netlify.app/
+
+This is a simulator of a musical controller, build in Vue.js. I really enjoyed building this one! And love the result. 
+
+
+
+
+
 ## Project setup
 ```
 npm install
